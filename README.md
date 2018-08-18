@@ -3,7 +3,7 @@ Bachelor's project using Ethereum blockchain and smart contracts
 
 Open terminal and run the following:
 
-<b>node</b>
+<b>node</b></br>
 Then:
 > Web3 = require('web3') </br>
 > web3 = new Web3(new Web3.providers.HttpProvider("http://localhost:8545")); </br>
